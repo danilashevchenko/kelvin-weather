@@ -21,6 +21,9 @@
 ---
 **Kelvin Weather** — это программа, которая переводит градусы Кельвина в градусы Цельсия и Фаренгейта.
 
+![](https://raw.githubusercontent.com/danilashevchenko/kelvin-weather/b31486048d78ba817c95180e439c906b5b9938cc/Kelvin%20Thermometers.svg)
+
+
 
 ### **Технологии:**
 ---
@@ -31,8 +34,8 @@
 ---
 
 
-![](https://github.com/danilashevchenko/pomodoro-timer/blob/main/cover_app.png?raw=true)
+![](https://github.com/danilashevchenko/kelvin-weather/blob/main/cover.png?raw=true)
 
 <div align="center">
-<a href="https://cw00361.tmweb.ru/pomodoro" class="gradient-button">Посмотреть Таймер</a>
+<a href="https://github.com/danilashevchenko/kelvin-weather" class="gradient-button">Посмотреть код</a>
 </div>
