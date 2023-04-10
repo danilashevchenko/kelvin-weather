@@ -2,7 +2,7 @@
 ---
 ![](https://github.com/danilashevchenko/pomodoro-timer/blob/main/cover.png?raw=true)
 <p align="center">
-    <em>Kelvin Weather. Реализован Шевченко Данилой.</em>
+    <em>Проект "Kelvin Weather". Реализован Шевченко Данилой.</em>
 </p>
 
 ---
